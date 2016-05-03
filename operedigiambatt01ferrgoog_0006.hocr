@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operedigiambatt01ferrgoog_0006.png"; bbox 0 0 3942 5592; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 599 674 1128 893">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 599 674 1128 945">
+     <span class='ocr_line' id='line_1_1' title="bbox 599 674 1128 893; baseline -0.013 -35"><span class='ocrx_word' id='word_1_1' title='bbox 599 674 1128 893; x_wconf 72' lang='lat' dir='ltr'>opuscom</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 848 1069 960 1211">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 848 1069 960 1211">
+     <span class='ocr_line' id='line_1_2' title="bbox 848 1069 960 1211; baseline -0.009 -90"><span class='ocrx_word' id='word_1_2' title='bbox 848 1069 960 1211; x_wconf 59' lang='lat' dir='ltr'>DI4</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 332 1151 1467 1639">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 332 1151 1467 1639">
+     <span class='ocr_line' id='line_1_3' title="bbox 332 1151 1467 1639; baseline -0.003 -78"><span class='ocrx_word' id='word_1_3' title='bbox 332 1151 1135 1573; x_wconf 52' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_4' title='bbox 1208 1347 1467 1639; x_wconf 59' lang='lat' dir='ltr'>ymo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 480 2356 1241 2452">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 480 2356 1241 2452">
+     <span class='ocr_line' id='line_1_4' title="bbox 480 2356 1241 2452; baseline 0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 480 2356 855 2452; x_wconf 87' lang='lat' dir='ltr'>GIUSEPPE</span> <span class='ocrx_word' id='word_1_6' title='bbox 907 2358 1241 2452; x_wconf 74' lang='lat' dir='ltr'><strong>FERRARI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1976 5592">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1976 5592">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1976 5592; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1976 5592; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
